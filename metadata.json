@@ -1,0 +1,5 @@
+{
+  "name": "Aplicación de Dictado",
+  "description": "Una aplicación interactiva para ayudar a los estudiantes a aprender a escribir palabras básicas a través del dictado por voz, organizada por categorías como objetos, alimentos y animales.",
+  "requestFramePermissions": []
+}
